@@ -1,0 +1,34 @@
+body {
+  color: red;
+}
+
+.excuse_button {
+  display: inline;
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+  color: black;
+}
+
+.hover {
+  color: gray;
+  border-bottom: gray 2px solid;
+}
+
+#form_call {
+  font-family: 'Coming Soon', cursive;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+
+}
+
+input[type=text] {
+  width: 300px;
+  border: 0px white solid;
+  border-bottom: 2px black solid;
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  font-size: 16px;
+  margin: 10px;
+}
